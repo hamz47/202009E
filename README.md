@@ -128,5 +128,35 @@ EDITING
     </tbody>
 </table>
 
+ROW COLOUMN
+<h3>contact</h3>
+
+<table border="1">
+    <thead>
+     <th colspan="5">ROOM tarif</th>
+   </thead>
+   <tbody>
+   <tr>
+       <td rowspan="3">room type</td>
+       <td colspan="2">delux</td>
+       <td colspan="2">excutive</td>
+ </tr>
+ <tr>
+     <td>ac</td>
+     <td>non ac</td>
+     <td>ac</td>
+     <td>non ac</td>
+ </tr>
+ <tr>
+     <td>1500</td>
+     <td>100</td>
+     <td>2500</td>
+ <td>1500</td>    
+ </td>
+   </tbody>
+
+</table>
+</html>
+
 
 
