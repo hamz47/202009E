@@ -104,3 +104,29 @@ CODE CHANGE
 </table>
 </body>
 </html>
+
+EDITING
+ </thead>
+    <tbody>
+        <tr>
+            <td>hamza</td>
+            <td rowspan="3">a</td>
+            <td>KK</td>
+        </tr>
+        <tr>
+            <td>ahmed</td>
+            <td>pak</td>
+        </tr>
+        <tr>
+            <td>waleed</td>
+        
+            <td>PZ</td>
+        </tr>
+        <tr>
+            <td colspan="3">b</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
